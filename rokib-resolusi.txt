@@ -1,4 +1,4 @@
 Rokib resolusi
 .membuat website dengan reactjs
-.membuat spa
 .membuat todolist
+.membuat auth
