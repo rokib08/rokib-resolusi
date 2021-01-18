@@ -1,0 +1,4 @@
+Rencana kontent
+.fatching data dinamis
+.membuat card masing2 data
+.membbuat card dari masing2 detil data
